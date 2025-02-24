@@ -25,4 +25,4 @@ Para ejecutar el proyecto en tu máquina, instala las siguientes dependencias:
 
 ```sh
 pip install pandas scikit-learn matplotlib seaborn jupyter
-```
+```# ml_all_countries
